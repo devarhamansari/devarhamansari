@@ -21,3 +21,11 @@ Hi I am currently teaching github to students and participants. I am in 2nd seme
   <img src="https://skills.syvixor.com/api/icons?i=chatgpt,deepseek" />
 </p>
 </a>
+
+# Connect with me:
+
+ <a href="https://github.com/arhamansari11/">
+<p align="left">
+  <img src="https://skills.syvixor.com/api/icons?i=linkedin" />
+</p>
+</a>
