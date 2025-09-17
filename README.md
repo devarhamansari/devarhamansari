@@ -7,5 +7,7 @@
 ## Hi there I am Muhammad Arham (A Software Engineer)👋
 
 <h1>
-  I am a quick Leaner.
+  Introduction
 </h1>
+
+Hi I am currently teaching github to students and participants. I am in 2nd semester.
