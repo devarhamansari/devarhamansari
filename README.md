@@ -18,6 +18,6 @@ Hi I am currently teaching github to students and participants. I am in 2nd seme
 
  <a href="https://github.com/arhamansari11/">
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=chatgpt" />
+  <img src="https://skills.syvixor.com/api/icons?i=chatgpt,deepseek" />
 </p>
 </a>
